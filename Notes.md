@@ -12,3 +12,5 @@
 * components that manage their own state
     * can pass data among many components
 * can be rendered on the server using Node 
+
+quick test
